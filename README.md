@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/images/mybio2.gif" align="center" width="1200" height="320" />
+<img src="/images/mybio2.gif" align="center" width="950" height="280" />
 </div>  
   
 ### <div align="center"> I'm Luis, a lover of technology 💻. In my Github, you will find a mix of valuable codes that will help you in some areas, for example, electronics, robotics, data science, artificial vision, and others. </div>  

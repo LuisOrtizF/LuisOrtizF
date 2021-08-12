@@ -62,13 +62,13 @@
 ## Connect With Me  
 <div align="center">
 <a href="https://github.com/LuisOrtizF" target="_blank">
-<img src= "/images/github_logo.png" alt="Github" style="margin-bottom: 5px;" />
+<img src= "/images/github_logo.png" alt="Github" width="50" height="50" />
 </a>
 <a href="https://twitter.com/lortizf" target="_blank">
-<img src= "/images/twitter_logo.png" alt="twitter" style="margin-bottom: 5px;" />
+<img src= "/images/twitter_logo.png" alt="twitter" width="50" height="50" />
 </a>
 <a href="https://linkedin.com/in/lortizf" target="_blank">
-<img src= "/images/linkedin_logo.png" alt="linkedin" style="margin-bottom: 5px;" />
+<img src= "/images/linkedin_logo.png" alt="linkedin" width="50" height="50" />
 </a>
 </div>  
 

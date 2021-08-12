@@ -1,6 +1,6 @@
 <div align="center">
 <img src="/images/mybio2.gif" align="center" width="950" height="280" />
-</div>  
+</div>
   
 ### <div align="center"> I'm Luis, a lover of technology 💻. In my Github, you will find a mix of valuable codes that will help you in some areas, for example, electronics, robotics, data science, artificial vision, and others. </div>  
   
@@ -62,13 +62,13 @@
 ## Connect With Me  
 <div align="center">
 <a href="https://github.com/LuisOrtizF" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src= "/images/github_logo.png" alt="Github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/lortizf" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src= "/images/twitter_logo.png" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/lortizf" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src= "/images/linkedin_logo.png" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>  
 

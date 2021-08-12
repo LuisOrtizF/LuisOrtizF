@@ -1,13 +1,90 @@
-<p  align="center"><img width=800 height="400" src = "mybio.gif"></p>
+<div align="center">
+<img src="/images/mybio2.gif" align="center" width="1200" height="320" />
+</div>  
+  
+### <div align="center"> I'm Luis, a lover of technology 💻. In my Github, you will find a mix of valuable codes that will help you in some areas, for example, electronics, robotics, data science, artificial vision, and others. </div>  
+  
+- 🔭 I’m currently working on [Github NatalNet Labs](https://github.com/Natalnet).
+  
+- 🌱 I’m currently learning Reinforcement Learning for Computer Vision and Robot Navigation.
+  
+- ❓ Ask me about anything related to electronics, robotics, data science, artificial vision, and others.  
 
-**Welcome To My GitHub Profile !**
+<br/>  
 
-I am Luis Ortiz, a lover of technology. In my Github, you will find a mix of valuable codes that will help you in some areas, for example, electronics, robotics, data science, artificial vision, and others.
+## My Skill Set
+<table><tr><td valign="top" width="25%">
 
+### Programming  
+<div align="center">  
+<img style="margin: 10px" src="/images/cpp_logo.png" alt="C++" height="50" />
+<img style="margin: 10px" src="/images/matlab_logo.jpeg" alt="Matlab" height="50" />  
+<img style="margin: 10px" src="/images/python_logo.jpg" alt="Python" height="50" />  
 
-Programming Languages that I domain:
+</div></td><td valign="top" width="25%">
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+### Libraries  
+<div align="center">  
+<img style="margin: 10px" src="/images/cmake_logo.png" alt="CMake" height="50" /> 
+<img style="margin: 10px" src="/images/cuda_logo.jpeg" alt="CUDA" height="50" />
+<img style="margin: 10px" src="/images/keras_logo.png" alt="Keras" height="30" />
+<img style="margin: 10px" src="/images/opencv_logo.png" alt="OpenCV" height="50" /> 
+<img style="margin: 10px" src="/images/pcl_logo.png" alt="PCL" height="50" /> 
+<img style="margin: 10px" src="/images/qt_logo.png" alt="QT" height="50" />
+<img style="margin: 10px" src="/images/ros_logo.png" alt="ROS" height="50" /> 
+<img style="margin: 10px" src="/images/sklearn_logo.png" alt="sklearn" height="50" />
+<img style="margin: 10px" src="/images/tensor_logo.png" alt="Tensor" height="50" />
+</div></td><td valign="top" width="25%">
+  
+### OS 
+<div align="center">  
+<img style="margin: 10px" src="/images/android_logo.png" alt="Android" height="50" />  
+<img style="margin: 10px" src="/images/ios_logo.png" alt="ios" height="50" />
+<img style="margin: 10px" src="/images/linux_logo.png" alt="Linux" height="50" />
+<img style="margin: 10px" src="/images/windows_logo.png" alt="Windows" height="50" />  
+</div></td><td valign="top" width="25%">  
+  
+### Hardware
+<div align="center">  
+<img style="margin: 10px" src="/images/kinect_logo.png" alt="Kinect" height="50" /> 
+<img style="margin: 10px" src="/images/stereolabs_logo.png" alt="Stereolabs" height="20" /> 
+<img style="margin: 10px" src="/images/raspberry_logo.png" alt="Raspberry" height="50" /> 
+<img style="margin: 10px" src="/images/arduino_logo.png" alt="Arduino" height="50" /> 
+<img style="margin: 10px" src="/images/pic_logo.png" alt="Pic" height="50" /> 
+<img style="margin: 10px" src="/images/intel_logo.png" alt="Intel" height="50" /> 
+<img style="margin: 10px" src="/images/flir_logo.jpg" alt="FLIR" height="25" /> 
+<img style="margin: 10px" src="/images/esp32_logo.png" alt="ESP32" height="50" /> 
+<img style="margin: 10px" src="/images/jetson_logo.png" alt="Jetson" height="50" /> 
+</div></td></tr></table>  
 
-Robotic Vision Libraries that I domain:
+<br/>
 
+## Connect With Me  
+<div align="center">
+<a href="https://github.com/LuisOrtizF" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/lortizf" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/lortizf" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+<br/> 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LuisOrtizF&theme=dark&show_icons=true&count_private=true&bg_color=1a1a1a&icon_color=0affe6" align="center" /></div>  
+
+<br/> 
+<br/> 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=LuisOrtizF&color=blue&label=Can+you+break+these+counter?" align="center" />
+</div>  
+
+<br/> 
+
+----
+<div align="right"> Created by: Luis Ortiz, 2021 </div>

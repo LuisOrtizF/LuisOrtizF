@@ -18,15 +18,15 @@
 ### Programming  
 <div align="center">  
 <img style="margin: 10px" src="/images/cpp_logo.png" alt="C++" height="50" />
-<img style="margin: 10px" src="/images/matlab_logo.jpeg" alt="Matlab" height="50" />  
-<img style="margin: 10px" src="/images/python_logo.jpg" alt="Python" height="50" />  
+<img style="margin: 10px" src="/images/matlab_logo.png" alt="Matlab" height="50" />  
+<img style="margin: 10px" src="/images/python_logo.png" alt="Python" height="50" />  
 
 </div></td><td valign="top" width="25%">
 
 ### Libraries  
 <div align="center">  
 <img style="margin: 10px" src="/images/cmake_logo.png" alt="CMake" height="50" /> 
-<img style="margin: 10px" src="/images/cuda_logo.jpeg" alt="CUDA" height="50" />
+<img style="margin: 10px" src="/images/cuda_logo.png" alt="CUDA" height="50" />
 <img style="margin: 10px" src="/images/keras_logo.png" alt="Keras" height="30" />
 <img style="margin: 10px" src="/images/opencv_logo.png" alt="OpenCV" height="50" /> 
 <img style="margin: 10px" src="/images/pcl_logo.png" alt="PCL" height="50" /> 
@@ -52,7 +52,7 @@
 <img style="margin: 10px" src="/images/arduino_logo.png" alt="Arduino" height="50" /> 
 <img style="margin: 10px" src="/images/pic_logo.png" alt="Pic" height="50" /> 
 <img style="margin: 10px" src="/images/intel_logo.png" alt="Intel" height="50" /> 
-<img style="margin: 10px" src="/images/flir_logo.jpg" alt="FLIR" height="25" /> 
+<img style="margin: 10px" src="/images/flir_logo.png" alt="FLIR" height="25" /> 
 <img style="margin: 10px" src="/images/esp32_logo.png" alt="ESP32" height="50" /> 
 <img style="margin: 10px" src="/images/jetson_logo.png" alt="Jetson" height="50" /> 
 </div></td></tr></table>  

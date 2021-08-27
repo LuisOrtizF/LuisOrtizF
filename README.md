@@ -80,6 +80,11 @@
 <br/> 
 <br/> 
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOrtizF&layout=compact&bg_color=1a1a1a&text_color=c7c7c7&title_color=ffffff" /></div> 
+
+<br/> 
+<br/> 
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LuisOrtizF&color=blue&label=Can+you+break+these+counter?" align="center" />
 </div>  

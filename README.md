@@ -4,9 +4,9 @@
   
 ### <div align="center"> I'm Luis, a lover of technology 💻. In my Github, you will find a mix of valuable codes that will help you in some areas, for example, electronics, robotics, data science, artificial vision, and others. </div>  
   
-- 🔭 I’m currently working on [Github NatalNet Labs](https://github.com/Natalnet).
+- 🔭 I’m currently working on [GECKO](https://ec.linkedin.com/company/gecko-vaia).
   
-- 🌱 I’m currently learning Reinforcement Learning for Computer Vision and Robot Navigation.
+- 🌱 I’m currently learning Smart City with IA, Computer Vision, Robotics, etc.
   
 - ❓ Ask me about anything related to electronics, robotics, data science, artificial vision, and others.  
 
